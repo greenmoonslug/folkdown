@@ -160,3 +160,9 @@ margin:0px;
     cursor:pointer;
     position:absolute;
 }
+
+footer{
+  margin:10px;
+  padding-top:10px;
+  text-align:center;
+}
